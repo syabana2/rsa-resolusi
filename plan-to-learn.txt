@@ -1,0 +1,6 @@
+What should i learn :
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - Dev
+  - OPS
