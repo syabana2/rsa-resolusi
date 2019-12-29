@@ -3,6 +3,8 @@ What should i learn :
     * Docker Compose
       ^ Docker Basic
       ^ Docker Cloud
+      ^ Docker Network
+      ^ Docker Advanced
     * Docker link
   - Kubernetes
   - Jenkins
