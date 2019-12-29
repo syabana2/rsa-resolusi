@@ -1,0 +1,8 @@
+What should i learn :
+  - Docker
+    * Docker Compose
+    * Docker link
+  - Kubernetes
+  - Jenkins
+  - Dev
+  - OPS
