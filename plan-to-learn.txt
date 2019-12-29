@@ -1,6 +1,8 @@
 What should i learn :
   - Docker
     * Docker Compose
+      ^ Docker Network
+      ^ Docker Advanced
     * Docker link
   - Kubernetes
   - Jenkins
